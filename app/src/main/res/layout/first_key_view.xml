@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.stk.euphonime.FirstKeyView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="210dp"
+    android:layout_width="60dp"
+    android:gravity="center"
+    android:background="@color/colorKeyBackground"
+    tools:src="@drawable/r4"
+    android:paddingVertical="60dp"/>
